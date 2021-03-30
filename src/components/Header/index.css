@@ -1,0 +1,8 @@
+
+
+#about-link:focus, 
+#contact-link:focus, 
+#portfolio-link:focus, 
+#resume-link:focus {
+  color: var(--fire-opal);
+}

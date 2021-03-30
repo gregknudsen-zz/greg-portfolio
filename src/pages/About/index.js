@@ -4,6 +4,7 @@ import { Jumbotron } from 'reactstrap';
 
 const About = () => {
   return(
+    <main>
     <div className="container mt-3">
        <Jumbotron>
         <h1 className="display-3">About Me</h1>
@@ -13,6 +14,7 @@ const About = () => {
        
       </Jumbotron>
     </div>
+    </main>
   ) 
 }
 

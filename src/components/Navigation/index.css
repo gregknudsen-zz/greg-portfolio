@@ -1,0 +1,7 @@
+.navActive {
+  color: var(--fire-opal);
+}
+
+.navActive:hover {
+  color: var(--mango-tango);
+}
